@@ -15,4 +15,6 @@ A program utasításokból áll. A program adatokon dolgozik.
  - kivitel (adat megjelenítése)
  - tárolás
  
- 
+## A programozás főbb területei
+
+ - asztali alkalmazások fejlesztése
