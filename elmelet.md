@@ -54,5 +54,12 @@ Attól függően, hogy a forráskód futtatás előtt lefordításra kerül vagy
 **Fordítók**: A fordítók a forráskódot valamilyen futtatható tárgykóddá, vagy köztes kóddá fordítják le, majd ezek kerülnek futtatásra.
   C++, Java, C# stb...
    
-   
+## Fejlesztői környezetek
+
+olyan szoftverek, amelyek programok írását teszik lehetővé egy(vagy több) adott programnyelven. Ezek a szoftverek fejlett szolgáltatásokkal támogatják a fejlesztő munkáját, pl. kódkiegészítés, szintaktikai kiemelés stb. 
+ - MS Visual Studio
+ - Visual Studio Code
+ - Pycharm
+
+
    
