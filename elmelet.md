@@ -37,6 +37,14 @@ A program utasításokból áll. A program adatokon dolgozik.
  - beágyazott rendszerek,IOT(Internet Of Things)
    PLC, Raspberry Pi, Arduino (C++, Python)
    
+## Szerepkörök a szoftverfejlesztésben
+
+ - full stack fejlesztő (minden területen van jártassága)
+ - frontend fejlesztő (azok a területeket jelentik, amelyek valamilyen felhasználói felülettel kapcsolatosak)
+ - backend fejlesztő (adatkezelés, adatbázisok, az alkalmazások adatokkal való kiszolgálása)
+   
+  
+   
    
    
    
