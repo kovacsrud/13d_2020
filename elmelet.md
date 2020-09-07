@@ -44,7 +44,10 @@ A program utasításokból áll. A program adatokon dolgozik.
  - backend fejlesztő (adatkezelés, adatbázisok, az alkalmazások adatokkal való kiszolgálása)
    
   
-   
+## Programnyelvekről általában: 
+
+Attól függően, hogy a forráskód futtatás előtt lefordításra kerül vagy sem, beszélhetünk interpretált nyelvekről, vagy fordítókról.
+
    
    
    
