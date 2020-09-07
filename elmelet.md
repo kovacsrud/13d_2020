@@ -50,6 +50,7 @@ Attól függően, hogy a forráskód futtatás előtt lefordításra kerül vagy
 
 **Interpretált nyelvek**: A futtató környezet (interpreter) sorról sorra halad a kód végrehajtásakor.
   PHP, Javascript, Python
+  
 **Fordítók**: A fordítók a forráskódot valamilyen futtatható tárgykóddá, vagy köztes kóddá fordítják le, majd ezek kerülnek futtatásra.
   C++, Java, C# stb...
    
