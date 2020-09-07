@@ -17,4 +17,6 @@ A program utasításokból áll. A program adatokon dolgozik.
  
 ## A programozás főbb területei
 
- - asztali alkalmazások fejlesztése
+ - asztali alkalmazások fejlesztése (irodai program, játék ....) 
+   Általában Windows vagy Linux oprációs rendszerekre íródnak ezek a programok. 
+   
