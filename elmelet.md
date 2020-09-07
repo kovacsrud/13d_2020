@@ -8,3 +8,11 @@ Napjainkban alig van olyan eszköz, amin ne futna program, az évtizedek során 
 De mi a program?
 
 A program utasításokból áll. A program adatokon dolgozik.
+
+Általánosságban az adatfeldolgozás:
+ - adat(ok) beolvasása
+ - művelet az adatokkal
+ - kivitel (adat megjelenítése)
+ - tárolás
+ 
+ 
