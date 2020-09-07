@@ -28,5 +28,8 @@ A program utasításokból áll. A program adatokon dolgozik.
    Android, IOS 
    Programnyelvek: Java, Kotlin, C# (Xamarin), egyebek, Swift(IOS)
    
+ - adatbázis alkalmazások
+   Gyakran valamilyen kiszolgálón, szerveren futnak ezek az alkalmazások, nem ritkán elosztott környezetben.
+   
    
    
