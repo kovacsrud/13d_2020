@@ -31,5 +31,12 @@ A program utasításokból áll. A program adatokon dolgozik.
  - adatbázis alkalmazások
    Gyakran valamilyen kiszolgálón, szerveren futnak ezek az alkalmazások, nem ritkán elosztott környezetben.
    
+ - játékfejlesztés
+   Nemzteközi óriáscégek terepe...
+   
+ - beágyazott rendszerek,IOT(Internet Of Things)
+   PLC, Raspberry Pi, Arduino (C++, Python)
+   
+   
    
    
