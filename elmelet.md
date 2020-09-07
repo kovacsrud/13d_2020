@@ -23,4 +23,10 @@ A program utasításokból áll. A program adatokon dolgozik.
  - webes alkalmazások fejlesztése 
    A böngészőben fut, független az operációs rendszertől, szinte bármilyen alkalmazás megvalósítható webalkalmazásként.
    Programnyelvek : PHP, Java, C#(asp.net), Javascript ill. Javascript keretrendszerek (Vue, Node.js, React, Angular stb..)
+ 
+ - mobil alkalmazások fejlesztése
+   Android, IOS 
+   Programnyelvek: Java, Kotlin, C# (Xamarin), egyebek, Swift(IOS)
+   
+   
    
