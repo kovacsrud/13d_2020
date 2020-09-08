@@ -67,6 +67,7 @@ Az algoritmus olyan instrukciók sorozata, amelyek segítségével egy probléma
 Az algoritmusok 3 elemből állhatnak:
 
  - tevékenység (szekvencia)
+ - ismételt tevékenységek (ciklusok, iterációk)
  
 
 
