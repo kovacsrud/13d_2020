@@ -64,5 +64,11 @@ olyan szoftverek, amelyek programok írását teszik lehetővé egy(vagy több) 
 ## Algoritmusok
 
 Az algoritmus olyan instrukciók sorozata, amelyek segítségével egy probléma megoldható.
+Az algoritmusok 3 elemből állhatnak:
+
+ - tevékenység (szekvencia)
+ 
+
+
 
    
