@@ -61,5 +61,8 @@ olyan szoftverek, amelyek programok írását teszik lehetővé egy(vagy több) 
  - Visual Studio Code
  - Pycharm
 
+## Algoritmusok
+
+Az algoritmus olyan instrukciók sorozata, amelyek segítségével egy probléma megoldható.
 
    
