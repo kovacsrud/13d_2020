@@ -80,6 +80,6 @@ Az algoritmusok leírására több módszer is használatos:
  
 ## A változó fogalma
 
-Minden program adatokkal dolgozik. A változó a memória egy adott méretű, névvel ellátott része.
+Minden program adatokkal dolgozik. A változó a memória egy adott méretű, névvel ellátott része. A program futása során valamilyen típusú értéket tárol (szöveg, szám, logikai érték)
 
    
