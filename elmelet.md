@@ -78,6 +78,8 @@ Az algoritmusok leírására több módszer is használatos:
  - stuktogram
  - Jackson-ábra
  
+## A változó fogalma
 
+Minden program adatokkal dolgozik. A változó a memória egy adott méretű, névvel ellátott része.
 
    
