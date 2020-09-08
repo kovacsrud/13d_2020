@@ -68,7 +68,9 @@ Az algoritmusok 3 elemből állhatnak:
 
  - tevékenység (szekvencia)
  - ismételt tevékenységek (ciklusok, iterációk)
+   - elöltesztelő, hátultesztelő, növekményes
  - elágazás, esetszétválasztás (szelekció)
+   - egyszeres, többszörös
  
 
 
