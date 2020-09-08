@@ -72,7 +72,12 @@ Az algoritmusok 3 elemből állhatnak:
  - elágazás, esetszétválasztás (szelekció)
    - egyszeres, többszörös
  
-
+Az algoritmusok leírására több módszer is használatos:
+ - mondatszerű leírás
+ - folyamatábra
+ - stuktogram
+ - Jackson-ábra
+ 
 
 
    
