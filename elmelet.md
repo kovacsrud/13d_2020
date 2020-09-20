@@ -160,11 +160,11 @@ Kisebb vagy nagyobb mint 10:
 
 ***Bekérünk egy számot***
 
-***Ha az "A" nagyobb akkor a következőt tesszük:  ***
+***Ha az "A" nagyobb akkor a következőt tesszük:***
 
    **Kiírjuk: „nagyobb”**
  
-***ellenkező esetben a következőt tesszük:  ***
+***ellenkező esetben a következőt tesszük:***
 
    **Kiírjuk: „kisebb”**
  
