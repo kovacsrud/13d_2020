@@ -256,6 +256,8 @@ Stop
  
  ![](flow_1.JPG)
  
+ **Az alakzatok felhasználása**
+ 
  ![](flow_2.JPG)
  
  ![](szekvencia.JPG)
