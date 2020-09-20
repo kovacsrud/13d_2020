@@ -209,8 +209,19 @@ C = B + A
 Ki B
 Stop
 ```
+**Szelekciós tevékenység**
 
-
+Kisebb vagy nagyobb mint 10:
+```C#
+Start
+Be A
+Ha A>10 akkor
+	Ki „nagyobb”
+ellenben
+	Ki „kisebb”
+Ha vége
+Stop
+```
  
 ## A változó fogalma
 
