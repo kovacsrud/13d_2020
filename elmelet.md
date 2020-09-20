@@ -114,6 +114,8 @@ A szekvenciális tevékenység, az amikor a egymás után vesszük lépéseket.A
 Az iteráció, másként ciklus vagy ismétlés.Egy adott lépést többször szeretnénk végrehajtani.
 
 ### A iterációk osztályozása:
+
+(kép)
  
 Az algoritmusok leírására több módszer is használatos:
  - mondatszerű leírás
