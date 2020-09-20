@@ -140,37 +140,19 @@ Szövegesen leírjuk az algoritmust.
 
 2 szám összeadása:
 
-***Program indul***
-
-***Bekérünk egy számot***
-
-***Bekérünk egy másik számot***
-
-***Összeadjuk az első és második számot, majd eltároljuk egy harmadik helyen***
-
-***Kiírjuk a harmadik hely értékét***
-
-***Program vége***
+```C#
+Program indul
+Bekérünk egy számot
+Bekérünk egy másik számot
+Összeadjuk az első és második számot, majd eltároljuk egy harmadik helyen
+Kiírjuk a harmadik hely értékét
+Program vége
+```
 
 **Szelekciós tevékenység**
 
 Kisebb vagy nagyobb mint 10:
 
-***Program indul***
-
-***Bekérünk egy számot***
-
-***Ha az "A" nagyobb akkor a következőt tesszük:***
-
-    **Kiírjuk: „nagyobb”**
- 
-***ellenkező esetben a következőt tesszük:***
-
-    **Kiírjuk: „kisebb”**
- 
-***Ha vége***
-
-***Program vége***
 ```C#
 Program indul
 Beérünk egy számot
