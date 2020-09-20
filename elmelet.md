@@ -162,13 +162,13 @@ Kisebb vagy nagyobb mint 10:
 
 ***Ha az "A" nagyobb akkor a következőt tesszük:  ***
 
-	***Kiírjuk: „nagyobb”***
+   ***Kiírjuk: „nagyobb”***
  
 ***ellenkező esetben a következőt tesszük:  ***
 
-	***Kiírjuk: „kisebb”***
+   ***Kiírjuk: „kisebb”***
  
-**Ha vége***
+***Ha vége***
 
 ***Program vége***
 
