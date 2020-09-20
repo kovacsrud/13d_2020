@@ -116,6 +116,13 @@ Az iteráció, másként ciklus vagy ismétlés.Egy adott lépést többször sz
 ### A iterációk osztályozása:
 
 ![](iteraciok.JPG)
+
+### Az utasítások szintjei
+![](utasitas_szintek.JPG)
+
+### Vezérlő tevékenységek
+![](vezerlo_tevekenysegek.JPG)
+
  
 Az algoritmusok leírására több módszer is használatos:
  - mondatszerű leírás
