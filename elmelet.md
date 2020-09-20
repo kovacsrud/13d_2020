@@ -90,6 +90,9 @@ Az elemzési szakaszban felmérjük a helyzetet. Megnézzük modellezhető-e a p
      - típus
      - megjelenítendő
      - tárolandó
+     
+## A tervezési szakaszról
+A tervezési szakaszban fokozatosan elemeire bontjuk a problémát, meghatározzuk a megoldásalgoritmusát.Egy feladatot több kisebb egységre osztunk fel. Maximálisan annyi egységre osztjuk fel amit mégképesek vagyunk átlátni. Van aki ezt maximálisan 7 egységben adja meg, van aki 30. Maximálisan 10egységre való felbontást ajánlom. A felbontott egységeket újabb egységekre bonthatjuk.Eldöntjük milyen programozási nyelvet választunk.
 
 ## Algoritmusok
 
