@@ -254,7 +254,15 @@ Stop
  
  ## Folyamatábra
  
+ ![](flow_1.JPG)
  
+ ![](flow_2.JPG)
+ 
+ ![](szekvencia.JPG)
+ 
+ ![](szelekcio.JPG)
+ 
+ ![](alt_flow.JPG)
  
 ## A változó fogalma
 
