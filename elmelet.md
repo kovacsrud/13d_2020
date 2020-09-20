@@ -164,6 +164,22 @@ Ha vége
 Program vége
 ```
 
+**Iterációs tevékenység**
+
+Összeadás 0 végjelig:  
+```C#
+Program indul
+A legyen egyenlő 1-el
+B legyen egyenlő 0-l
+ismétlés amíg A nem egyenlő 0-l
+	bekérünk A helyre egy új számot
+	Az A értékét B-hez adjuk, majd az összeget B-ben tároljuk
+ismétlés vége
+Kiírjuk B értékét
+Program vége
+```
+
+
  
 ## A változó fogalma
 
