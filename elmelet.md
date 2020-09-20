@@ -171,7 +171,16 @@ Kisebb vagy nagyobb mint 10:
 ***Ha vége***
 
 ***Program vége***
-
+```C#
+Program indul
+Beérünk egy számot
+Ha az "A" nagyobb akkor a következőt tesszük:  
+	  Kiírjuk: „nagyobb”
+ellenkező esetben a következőt tesszük:  
+	  Kiírjuk: „kisebb”
+Ha vége
+Program vége
+```
 
  
 ## A változó fogalma
