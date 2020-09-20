@@ -223,6 +223,22 @@ Ha vége
 Stop
 ```
  
+ **Iterációs tevékenység**
+ 
+ Összeadás 0 végjelig:
+ ```C#
+ Start
+ A=1
+ B=0
+ ismétlés (A <> 0)
+ 	bekér A
+ 	B=B+A
+ ismétlés vége
+ Kiír B
+ Stop
+ ```
+ 
+ 
 ## A változó fogalma
 
 Minden program adatokkal dolgozik. A változó a memória egy adott méretű, névvel ellátott része. A program futása során valamilyen típusú értéket tárol (szöveg, szám, logikai érték)
