@@ -237,7 +237,20 @@ Stop
  Kiír B
  Stop
  ```
+ **Iterációs tevékenység hátul tesztelve**
  
+ Összeadás 0 végjelig:
+ ```C#
+ Start
+ A=1
+ B=0
+ csináld
+ 	bekér A
+ 	B=B+A
+ ismétlés (A <> 0)
+ Kiír B
+ Stop
+ ```
  
 ## A változó fogalma
 
