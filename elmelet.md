@@ -145,7 +145,9 @@ Szövegesen leírjuk az algoritmust.
 ***Bekérünk egy számot***
 
 ***Bekérünk egy másik számot***
+
 ***Összeadjuk az első és második számot, majd eltároljuk egy harmadik helyen***
+
 ***Kiírjuk a harmadik hely értékét***
 
 
