@@ -124,12 +124,26 @@ Az iteráció, másként ciklus vagy ismétlés.Egy adott lépést többször sz
 ![](vezerlo_tevekenysegek.JPG)
 
  
-Az algoritmusok leírására több módszer is használatos:
+### Az algoritmusok leírására több módszer is használatos:
+
  - mondatszerű leírás
  - pszeudokód
  - folyamatábra
  - stuktogram
  - Jackson-ábra
+
+## Mondatszerű leírás
+
+Szövegesen leírjuk az algoritmust.
+**Szekvenciális tevékenység**
+2 szám összeadása:
+***Program indul
+Bekérünk egy számot
+Bekérünk egy másik számot
+Összeadjuk az első és második számot, majd eltároljuk egy harmadik helyen
+Kiírjuk a harmadik hely értékét***
+
+
  
 ## A változó fogalma
 
