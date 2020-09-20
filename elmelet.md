@@ -77,6 +77,13 @@ olyan szoftverek, amelyek programok írását teszik lehetővé egy(vagy több) 
 
 Amennyiben a program sikeres tudott lenni, akkor gyűlni fognak a felhasználói visszajelzések, illetve megjelennek az igények új funkciók beillesztésére a programba. Egy ideig a karbantartás keretében ezekkel a funkciókkal bővíthető lesz a program. Amikor az igényelt új funkciók mennyisége elér egy szintet, akkor új verzió, változat készül a programból. Ezt nevezik a szofver életciklusának.
 
+## Elemzési szakasz
+Az elemzési szakaszban felmérjük a helyzetet. Megnézzük modellezhető-e a probléma számítógépen.Ha igen, milyen eszközök alkalmasak a megoldásra. Milyen adatok vannak? Milyen folyamatokat kell modellezni?
+
+ - Bemenő adatok
+     - típusok
+     - mennyiségek
+
 ## Algoritmusok
 
 Az algoritmus olyan instrukciók sorozata, amelyek segítségével egy probléma megoldható.
