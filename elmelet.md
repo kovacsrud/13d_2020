@@ -83,6 +83,13 @@ Az elemzési szakaszban felmérjük a helyzetet. Megnézzük modellezhető-e a p
  - Bemenő adatok
      - típusok
      - mennyiségek
+     - bevitel befejezése
+     - feltételek
+     - adatok közötti kapcsolatok
+ - Kimenő adatok
+     - típus
+     - megjelenítendő
+     - tárolandó
 
 ## Algoritmusok
 
