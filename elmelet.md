@@ -150,6 +150,28 @@ Szövegesen leírjuk az algoritmust.
 
 ***Kiírjuk a harmadik hely értékét***
 
+***Program vége***
+
+**Szelekciós tevékenység**
+
+Kisebb vagy nagyobb mint 10:
+
+***Program indul***
+
+***Bekérünk egy számot***
+
+***Ha az "A" nagyobb akkor a következőt tesszük:  ***
+
+	***Kiírjuk: „nagyobb”***
+ 
+***ellenkező esetben a következőt tesszük:  ***
+
+	***Kiírjuk: „kisebb”***
+ 
+**Ha vége***
+
+***Program vége***
+
 
  
 ## A változó fogalma
