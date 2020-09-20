@@ -126,6 +126,7 @@ Az iteráció, másként ciklus vagy ismétlés.Egy adott lépést többször sz
  
 Az algoritmusok leírására több módszer is használatos:
  - mondatszerű leírás
+ - pszeudokód
  - folyamatábra
  - stuktogram
  - Jackson-ábra
