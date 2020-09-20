@@ -179,7 +179,20 @@ Kiírjuk B értékét
 Program vége
 ```
 
+**Iterációs tevékenység hátul tesztelve**
 
+Összeadás 0 végjelig:
+```C#
+Program indul
+A legyen egyenlő 1-el
+B legyen egyenlő 0-l
+csináld
+	bekérünk A helyre egy új számot
+	Az A értékét B-hez adjuk, majd az összeget B-ben tároljuk
+ismétlés amíg A nem egyenlő 0 értékkel
+Kiírjuk B értékét
+Program vége
+```
  
 ## A változó fogalma
 
