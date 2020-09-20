@@ -135,13 +135,18 @@ Az iteráció, másként ciklus vagy ismétlés.Egy adott lépést többször sz
 ## Mondatszerű leírás
 
 Szövegesen leírjuk az algoritmust.
+
 **Szekvenciális tevékenység**
+
 2 szám összeadása:
-***Program indul
-Bekérünk egy számot
-Bekérünk egy másik számot
-Összeadjuk az első és második számot, majd eltároljuk egy harmadik helyen
-Kiírjuk a harmadik hely értékét***
+
+***Program indul***
+
+***Bekérünk egy számot***
+
+***Bekérünk egy másik számot***
+***Összeadjuk az első és második számot, majd eltároljuk egy harmadik helyen***
+***Kiírjuk a harmadik hely értékét***
 
 
  
