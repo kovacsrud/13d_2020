@@ -107,7 +107,7 @@ Az algoritmusok 3 elemből állhatnak:
  - elágazás, esetszétválasztás (szelekció)
    - egyszeres, többszörös
   
- [tevékenységekrő kép] 
+ (algo_tevekenysegek.JPG)
   
 A szekvenciális tevékenység, az amikor a egymás után vesszük lépéseket.A szelekciós tevékenység estén bizonyos utasítások végrehajtását feltételhez kötjük. Ha feltételteljesül, akkor végrehajtjuk az utasításohalmazt, ha nem akkor nem csinálunk semmit, vagy egymásik utasításhalmazt hajtunk végre. A szelekciós tevékenységet szokás még „elágazás” vagy„döntés” néven emlegetni.
 
