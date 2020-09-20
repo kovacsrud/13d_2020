@@ -96,7 +96,9 @@ A tervezési szakaszban fokozatosan elemeire bontjuk a problémát, meghatározz
 
 ## Algoritmusok
 
-Az algoritmus olyan instrukciók sorozata, amelyek segítségével egy probléma megoldható.
+Az algoritmus egyértelműen előírt módon és sorrendben végrehajtandó tevékenységek végessorozata. Az algoritmusról tehát elmondhatjuk, hogy véges számú lépesben kell végrehajtani. Kapunk valamilyen eredményt. Az egyes lépések egyértelműek. Azonos jellegű feladatokra is használható. Determinisztikus, vagyis ugyanazokra a bemenő adatokra, ugyanazokat a kimenő adatokat kapjuk. A programok algoritmusokból állnak. Az algoritmusok tulajdonképpen matematikai minták.
+
+Az algoritmus tehát olyan instrukciók sorozata, amelyek segítségével egy probléma megoldható.
 Az algoritmusok 3 elemből állhatnak:
 
  - tevékenység (szekvencia)
