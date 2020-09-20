@@ -193,6 +193,24 @@ ismétlés amíg A nem egyenlő 0 értékkel
 Kiírjuk B értékét
 Program vége
 ```
+
+## Pszeudokód
+
+A pszeudokód a szöveges leíráshoz képest tömörebb.
+
+**Szekvenciális tevékenység**
+
+2 szám összeadása:
+```C#
+Start
+Be A
+Be B
+C = B + A
+Ki B
+Stop
+```
+
+
  
 ## A változó fogalma
 
