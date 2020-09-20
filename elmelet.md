@@ -65,6 +65,17 @@ olyan szoftverek, amelyek programok írását teszik lehetővé egy(vagy több) 
  - MS Visual Studio
  - Visual Studio Code
  - Pycharm
+ 
+## A programfejlsztés lépései általánosságban
+- elemzés (analízis)
+- tervezés
+- kódolás
+- tesztelés
+- dokumentálás
+- terjesztés
+- karbantartás
+
+Amennyiben a program sikeres tudott lenni, akkor gyűlni fognak a felhasználói visszajelzések, illetve megjelennek az igények új funkciók beillesztésére a programba. Egy ideig a karbantartás keretében ezekkel a funkciókkal bővíthető lesz a program. Amikor az igényelt új funkciók mennyisége elér egy szintet, akkor új verzió, változat készül a programból. Ezt nevezik a szofver életciklusának.
 
 ## Algoritmusok
 
