@@ -213,7 +213,7 @@ Start
 Be A
 Be B
 C = B + A
-Ki B
+Ki C
 Stop
 ```
 **Szelekciós tevékenység**
