@@ -327,3 +327,10 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |0|1|
 |1|0|
 
+**OR (vagy) művelet**
+|a|b|a OR B|
+|:--:|:--:|:--:|
+|0|0|0|
+|0|1|1|
+|1|0|1|
+|1|1|1|
