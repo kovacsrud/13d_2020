@@ -316,4 +316,4 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |Szimbólum|Művelet|Példa|Magyarázat|
 |:-------:|:-----:|:---:|:--------:|
 |!|NOT (NEM) (logikai tagadás)|!x|Igaz(1), ha az operandus értéke Hamis(0) ; Hamis(0) ha az operandus értéke nem Hamis(0)|
-|\|\||OR (VAGY) (logikai választás)|x < 5 || x > 7|Igaz(1), ha bármelyik feltétel igaz|
+|\|\||OR (VAGY) (logikai választás)|x < 5 \|\| x > 7|Igaz(1), ha bármelyik feltétel igaz|
