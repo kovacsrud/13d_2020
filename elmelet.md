@@ -321,5 +321,5 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 
 ### Logikai műveletek igazságtáblázata
 
-|NOT(logikai tagadás)|
+|NOT(logikai tagadás)||
 |:---:|:----:|
