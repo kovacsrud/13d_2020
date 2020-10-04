@@ -285,4 +285,11 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |+|értékek összeadása|x+2| |
 |-|kivonás vagy előjel váltása|x-2,-x| |
 |\*|szorzás|x\*2| |
+|\|osztás|x\2| |
+|%|osztás maradéka|x%2| A perc = az idő % 60  |
+|++|a változó értékének növelése 1-el|x++| |
+|--|a változó értékének csökkentése 1-el|x--| |
+
+
+
 
