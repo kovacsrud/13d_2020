@@ -281,5 +281,6 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 
 ### Aritmetikai műveletek
 |Szimbólum|Művelet|Példa|Analógia|
-|+|értékek összeadása|x+2||
+|---------|:-----:|:---:|:------:|
+|+|értékek összeadása|x+2| |
 
