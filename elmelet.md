@@ -355,27 +355,27 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 
 **Telefonálás algoritmusa**
 
--előveszem a telefont
--bekapcsolom a kijelzőt
--beírom a feloldó kódot
--megkeresem a névjegyek közül azt akit hívni akarok
--megnyomom a hívást
--várok
--ha nem veszi fel, megszakítom a hívást
--egyébként beszélünk
--a beszélgetés végén megszakítom a hívást
--elteszem a telefont
+ -előveszem a telefont
+ -bekapcsolom a kijelzőt
+ -beírom a feloldó kódot
+ -megkeresem a névjegyek közül azt akit hívni akarok
+ -megnyomom a hívást
+ -várok
+ -ha nem veszi fel, megszakítom a hívást
+ -egyébként beszélünk
+ -a beszélgetés végén megszakítom a hívást
+ -elteszem a telefont
 
 **Teafőzés algoritmusa**
 
--veszek egy edényt
--megtöltöm vízzel
--felteszem melegedni
--ha felforrt beleteszem a filtert
--ha megfelelő a színe csészébe töltöm
--citromot adok hozzá
--édesítem
--megiszom
+ -veszek egy edényt
+ -megtöltöm vízzel
+ -felteszem melegedni
+ -ha felforrt beleteszem a filtert
+ -ha megfelelő a színe csészébe töltöm
+ -citromot adok hozzá
+ -édesítem
+ -megiszom
 
 
 
