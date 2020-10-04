@@ -319,3 +319,7 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |\|\||OR (VAGY) (logikai választás)|x < 5 \|\| x > 7|Igaz(1), ha bármelyik feltétel igaz|
 |&&|AND (ÉS) (logikai összeadás)|x == 5 &&  y < 7|Igaz(1), ha mindegyik feltétel igaz|
 
+### Logikai műveletek igazságtáblázata
+
+|NOT(logikai tagadás)|
+|:---:|:----:|
