@@ -377,5 +377,19 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
  - édesítem
  - megiszom
 
+### Algoritmizálási feladatok
+
+- Kérjen be két számot, szorozza össze a számokat, írja az eredményt a képernyőre. 
+- Kérjen be két számot, a nagyobbat ossza el a kisebbel, az eredményt írja a képernyőre. 
+- Kérjen be két számot, majd írassa a nagyobbat a képernyőre. 
+- Kérjen be két számot, a nagyobbat ossza el kettővel, a kisebbet hárommal. Az eredményt írja a képernyőre. 
+- Kérjen be számokat 0 végjelig. Számolja meg az 5-nél nagyobb számokat. Írassa a képernyőre hány 5-nél nagyobb számot írt be a felhasználó. 
+- Kérjen be folyamatosan hőmérséklet adatokat. Ha a beírt hőmérséklet fagypont alá esik, akkor ne kérjen többet. 
+- Kérjen be folyamatosan hőmérséklet adatokat. Ha a beírt hőmérséklet -5 fok alá esik, akkor ne kérjen többet. Írassa ki, hány hőmérsékletadatot adott meg felhasználó. 
+- Kérjen be 0 végjelig számokat. Írassa ki hány darab számot írt be a felhasználó. 
+- Kérjen be 0 végjelig számokat. A bekért számokat adja össze. Az eredmény írja a képernyőre. 
+- Kérjen be 0 végjelig számokat. A bekért számokat szorozza össze. Az eredményt írja a képernyőre. 
+
+
 
 
