@@ -390,6 +390,49 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 - Kérjen be 0 végjelig számokat. A bekért számokat adja össze. Az eredmény írja a képernyőre. 
 - Kérjen be 0 végjelig számokat. A bekért számokat szorozza össze. Az eredményt írja a képernyőre. 
 
+**Adott a következő leírás**
+```py
+Start
+a = 3
+b = 5
+c = 1
+d = 0
+Ha b < 5 akkor
+  d = 8
+  c = 5 + a
+ellenben
+  d = 15
+Ha vége
+Ha c < d akkor
+  d = 40
+Ha vége
+Vége
+```
+**Mi lesz d értéke a program végén?**
+
+**Adott a következő szöveges leírása egy programnak:**
+```py
+Start
+a = 45
+b = 37
+c = a - b
+d = 3
+f = 2
+g = b * a
+a = g
+ha a > f akkor
+    b = 23
+ellenben
+    c = 23
+ha vége
+ha b == c akkor
+    b = 4
+ellenben
+    d = 4
+ha vége
+Stop
+```
+**A program végén mi lesz a,b,c,d értéke?**
 
 
 
