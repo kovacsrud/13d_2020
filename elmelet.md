@@ -297,6 +297,7 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |=|x az y változó értékét kapja|x=y| |
 |+=|x változó növelése y-nal|x+=y|x=x+y|
 |-=|x változó csökkentése y-nal|x-=y|x=x-y|
+|\*=|x változó szorzása y-nal|x\*=y|x=x\*y|
 
 
 
