@@ -284,4 +284,5 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |:-------:|:-----:|:---:|:------:|
 |+|értékek összeadása|x+2| |
 |-|kivonás vagy előjel váltása|x-2,-x| |
+|\*|szorzás|x\*2| |
 
