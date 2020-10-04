@@ -354,6 +354,7 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 ## Algoritmizálás példák
 
 **Telefonálás algoritmusa**
+
 -előveszem a telefont
 -bekapcsolom a kijelzőt
 -beírom a feloldó kódot
@@ -366,6 +367,7 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 -elteszem a telefont
 
 **Teafőzés algoritmusa**
+
 -veszek egy edényt
 -megtöltöm vízzel
 -felteszem melegedni
