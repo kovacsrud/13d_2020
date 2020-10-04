@@ -343,3 +343,11 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |1|0|0|
 |1|1|1|
 
+**XOR (kizáró vagy) művelet**
+|a|b|a XOR B|
+|:--:|:--:|:--:|
+|0|0|0|
+|0|1|1|
+|1|0|1|
+|1|1|0|
+
