@@ -291,5 +291,12 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |--|a változó értékének csökkentése 1-el|x--| |
 
 
+### Értékadó műveletek
+|Szimbólum|Művelet|Példa|Analógia|
+|:-------:|:-----:|:---:|:------:|
+|=|x az y változó értékét kapja|x=y| |
+|+=|x változó növelése y-nal|x+=y|x=x+y|
+|-=|x változó csökkentése y-nal|x-=y|x=x-y|
+
 
 
