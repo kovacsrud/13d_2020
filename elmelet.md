@@ -302,5 +302,14 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |%=|Az x változó y-al történő osztásának a maradéka|x%=y|x=x%y|
 
 
+### Relációs műveletek
+|Szimbólum|Művelet|Példa|
+|:-------:|:-----:|:---:|
+|==|igaz, ha x egyenlő y|x==y|
+|!=|igaz, ha x nem egyenlő y|x!=y|
+|<|igaz, ha x kisebb mint y|x<y|
+|>|igaz, ha x nagyobb mint y|x>y|
+|<=|igaz, ha x egyenlő vagy kisebb mint y|x<=y|
+|>=|igaz, ha x egyenlő vagy nagyobb mint y|x>=y|
 
 
