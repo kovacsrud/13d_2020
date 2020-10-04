@@ -321,7 +321,7 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 
 ### Logikai műveletek igazságtáblázata
 
-**! Not**
+**! Not (tagadás)**
 |a|!a|
 |:---:|:----:|
 |0|1|
@@ -334,3 +334,12 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |0|1|1|
 |1|0|1|
 |1|1|1|
+
+**AND (és) művelet**
+|a|b|a AND B|
+|:--:|:--:|:--:|
+|0|0|0|
+|0|1|0|
+|1|0|0|
+|1|1|1|
+
