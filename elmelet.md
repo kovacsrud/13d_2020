@@ -290,6 +290,26 @@ Minden program adatokkal dolgozik. A változó a memória egy adott méretű, n�
 |++|a változó értékének növelése 1-el|x++| |
 |--|a változó értékének csökkentése 1-el|x--| |
 
+**A változó értékének növelése 1-el két módon is történhet**
+
+**x++** - a változó értékének növelése 1-el
+**++x** - a változó értékének növelése 1-el
+
+**Mi a különbség?**
+Akkor van jelentősége, ha az értéknövelés valamilyen értékadásban szerepel.
+**x++** esetén először használjuk az **x** értékét, majd csak utána növeljük.
+**++x** esetén először növeljük **x** értékét, majd utána használjuk fel az értéket.
+```c#
+x=3
+y=x++
+```
+**y** értéke 3 a fenti két utasítás után.
+
+```c#
+x=3
+y=++x
+```
+**y** értéke 4 a fenti két utasítás után.
 
 ### Értékadó műveletek
 |Szimbólum|Művelet|Példa|Analógia|
