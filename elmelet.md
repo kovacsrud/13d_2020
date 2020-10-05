@@ -400,7 +400,7 @@ y=++x
 - elteszem a telefon ->tevékenység	
 
 **Telefonálás algoritmus szöveges leírása**
-```py
+```c#
 Program indul
 Telefon elővesz
 Kijelző bekapcsolás
