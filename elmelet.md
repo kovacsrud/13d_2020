@@ -399,6 +399,31 @@ y=++x
 	egyébként megszakítom a hívást -> elágazás
 - elteszem a telefon ->tevékenység	
 
+**Telefonálás algoritmus szöveges leírása**
+```py
+Program indul
+Telefon elővesz
+Kijelző bekapcsolás
+Feloldó kód beírás
+Ciklus amíg rossz a feloldó kód
+	Feloldó kód beírás
+Ciklus vége
+Belépés a névjegyekbe
+Ciklus amíg meg nem találom akit hívni akarok
+	Névjegy keresése
+Ciklus vége
+Hívás indítása
+Várakozás
+Ha hívott fél felveszi
+  akkor
+    beszélgetés
+  egyébként
+    hívás megszakítása
+Ha vége
+Telefon eltesz
+Program vége	  
+```
+
 **Teafőzés algoritmusa**
 
  - veszek egy edényt
