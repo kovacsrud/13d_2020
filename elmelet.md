@@ -386,6 +386,19 @@ y=++x
  - a beszélgetés végén megszakítom a hívást
  - elteszem a telefont
 
+**Telefonálás algoritmus finomítása**
+- előveszem a telefont -> tevékenység
+- bekapcsolom a kijelzőt -> tevékenység
+- beírom a feloldó kódot -> ismételt tevékenység (milyen ciklus?)
+- megkeresem aki hívni akarok
+	- belépés a névjegyek közé (tevékenység)
+	- keresés amíg meg nem találom akit hívni akarok (ciklus)
+- hívás (tevékenység)
+- várok (cseng)  ->tevékenység
+- ha felveszi a hívott a telefont akkor beszélünk
+	egyébként megszakítom a hívást -> elágazás
+- elteszem a telefon ->tevékenység	
+
 **Teafőzés algoritmusa**
 
  - veszek egy edényt
