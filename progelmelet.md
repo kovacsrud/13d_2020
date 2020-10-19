@@ -502,4 +502,9 @@ Stop
 ```
 **A program végén mi lesz a,b,c,d értéke?**
 
+## Lottó játék algoritmusa
+A játék induláskor kérje be a felhasználótól azt, hogy hány számmal akar játszani, illetve hány számból akarja sorsoltatni a nyerőszámokat. A klasszikus ötös lottó esetében 90 szám közül lehet 5-öt választani.
+Az induló adatok után a program kérje be a felhasználótól a megadott számú tippeket. Nem lehet két egyforma tipp, valamint a tippeknek a megadott számtartományba kell esniük.
+Sorsoláskor figyelni kell arra, hogy nem lehet egyforma nyerőszám.
+A játék végén meg kell határozni, hogy a játékos hány számot talált el.
 
