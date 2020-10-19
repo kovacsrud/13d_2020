@@ -434,6 +434,16 @@ Program vége
  - citromot adok hozzá
  - édesítem
  - megiszom
+ 
+ **Teafőzés algoritmusának finomítása
+ - veszek egy edényt -> tevékenység (ciklus is lehet)
+ - megtöltöm vízzel -> tevékenység (ciklus is lehet)
+ - felteszem melegedni -> ciklus !
+ - belteszem a filtert ->tevékenység
+ - ha megfelelő a színe csészébe töltöm -> ciklus
+ - citromot adok hozzá -> tevékenység
+ - édesítem -> tevékenység
+ - megiszom -> tevékenység
 
 ### Algoritmizálási feladatok
 
