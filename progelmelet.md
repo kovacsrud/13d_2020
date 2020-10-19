@@ -508,3 +508,14 @@ Az induló adatok után a program kérje be a felhasználótól a megadott szám
 Sorsoláskor figyelni kell arra, hogy nem lehet egyforma nyerőszám.
 A játék végén meg kell határozni, hogy a játékos hány számot talált el.
 
+### Mondatszerű leírás
+```py
+Be hanySzam
+Be osszSzam
+Növekményes ciklus i=1-től 5-ig
+	Be atmeneti
+	Ciklus amíg (atmeneti<1 vagy atmeneti>osszSzam vagy atmeneti in tippek)
+		Ki "Rossz tipp, újra!"
+		Be atmeneti
+	tippek.betesz(atmeneti)	
+```
