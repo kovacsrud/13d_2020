@@ -519,3 +519,13 @@ Növekményes ciklus i=1-től 5-ig
 		Be atmeneti
 	tippek.betesz(atmeneti)	
 ```
+## Függvények, alprogramok
+Az angol **function** szóból ered a függvény elnevezés, azonban a programozásban a függvény némileg mást jelent, mint a matematikában.
+
+**Matematikai függvények:** négyzet, négyzetgyök stb.
+
+**Függvény a programozásban**: vagy végrehajt tevékenységeket, vagy valamilyen művelet eredményét szolgáltatja.
+
+**Mire valók ezek a függvények/alprogramok?**
+ - valameilyen érték kiszámítására, majd annak átadására
+ - gyakran ismétlődő tevékenységek végrehajtására
