@@ -575,3 +575,6 @@ Használat a program egy adott pontján:
 c=osszeg(100,200,300)
 print(osszeg(100,200,300))
 ```
+
+Feladat:
+ Írjon alprogramot, amely kap 3 szöveget, és ezeket a szövegeket egymással összefűzve kiírja!
