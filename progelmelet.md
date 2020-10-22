@@ -529,3 +529,32 @@ Az angol **function** szóból ered a függvény elnevezés, azonban a programoz
 **Mire valók ezek a függvények/alprogramok?**
  - valameilyen érték kiszámítására, majd annak átadására
  - gyakran ismétlődő tevékenységek végrehajtására
+ 
+ ### Alprogramok Python-ban
+ Adott tevékenységeket végrehajtó alprogramok:
+ 
+ Ez az alprogram pusztán annyit tud, hogy a beleírt szövegeket ki tudja írni. Nem rendelkezik semmilyen bemenő értékkel(argumentummal).
+ ```py
+ def kiir():
+    print("Hello,")
+    print("ez egy alprogram")
+ ```
+Ennek az alprogramnak a végrehajtása (meg kell hívni a program egy adott pontján ahhoz, hogy működjön):
+```py
+kiir()
+```
+
+
+Ez az alprogram már többet tud, mert át tudjuk adni neki azt a szöveget, amit ki akarunk íratni (van argumentum, mégpedig a ***szoveg***):
+Az argumentum nem más, mint egy változó.
+
+```py
+def masikKiir(szoveg):
+    print(szoveg)
+```    
+
+Ennek az alprogramnak a meghívása:
+```py
+masikKiir("Hello")
+masikKiir("Mizu?")
+```
