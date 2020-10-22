@@ -558,3 +558,20 @@ Ennek az alprogramnak a meghívása:
 masikKiir("Hello")
 masikKiir("Mizu?")
 ```
+### Visszatérési értékkel rendelkező függvények/alprogramok
+Ezek az alprogramok mindig tartalmaznak egy **return** utasítást, a return után szerepel az a változó, vagy kifejezés, amelyet az alprogram visszaad.
+A visszatérési értékkel rendelkező alprogramok szerepelhetnek értékadás jobb oldalán, vagy valamilyen kifejezésben.
+
+**Összeadást végző alprogram**
+
+Deklarálás:
+```py
+def osszeg(a,b,c):
+    return a+b+c    
+```
+
+Használat a program egy adott pontján:
+```py
+c=osszeg(100,200,300)
+print(osszeg(100,200,300))
+```
