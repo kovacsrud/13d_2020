@@ -578,3 +578,15 @@ print(osszeg(100,200,300))
 
 Feladat:
  Írjon alprogramot, amely kap 3 szöveget, és ezeket a szövegeket egymással összefűzve kiírja!
+ 
+ ## Alapvető algoritmusok (progamozási tételek)
+ 
+  - kiválogatás
+  - megszámlálás
+  - összegzés
+  - minimum meghatározása
+  - maximum meghatározás
+  - rendezés
+  
+  
+ 
