@@ -657,7 +657,7 @@ Start
 Adatszerkezet feltöltése
 max=adatszerkezet[0]
 Ciklus i=0 tól hossz(adatszerkezet)
- 	ha(adatszerkezet[i]>max
+ 	ha(adatszerkezet[i]>max)
 		max=adatszerkezet[i]
 Ciklus vége
 Ki max
