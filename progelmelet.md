@@ -611,3 +611,23 @@ Feladat:
 Ki:darabszám
 Stop
  ```
+ **Összes elem összeadása**
+ ```py
+ Start
+ összeg=0
+ Ciklus i=0 tól hossz(adatszerkezet)
+ 	összeg=összeg+adatszerkezet[i]
+ Ki összeg	
+ Stop
+ ```
+ **Adott feltételnek megfelelő elemek összeadása**
+
+```py
+Start
+összeg=0
+Ciklus i=0 tól hossz(adatszerkezet)
+	ha(adatszerkezet[i]==feltétel)
+		összeg=összeg+adatszerkezet[i]
+Ki összeg		
+Stop
+```
