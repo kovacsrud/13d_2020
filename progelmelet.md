@@ -588,5 +588,26 @@ Feladat:
   - maximum meghatározás
   - rendezés
   
+  ### Kiválogatás,keresés
   
+  ```py
+  Start
+  Ciklus i=0 tól hossz(adatszerkezet)
+  	adatszerkezet.hozzáad(adat)
+  Ciklus i=0 tól hossz(adatszerkezet)
+  	ha (adatszerkezet[i]==keresett elem)
+		eredmenyek.hozzáad(adatszerkezet[i])
+  Ki: eredmenyek			
+  Stop
+  ```
+ ### Megszámlálás, összegzés
  
+ ```py
+ Start
+ darabszám=0
+ Ciklus i=0 tól hossz(adatszerkezet)
+ 	ha (adatszerkezet[i]==feltétel)
+		darabszám=darabszám+1
+Ki:darabszám
+Stop
+ ```
