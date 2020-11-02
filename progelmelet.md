@@ -594,9 +594,11 @@ Feladat:
   Start
   Ciklus i=0 tól hossz(adatszerkezet)
   	adatszerkezet.hozzáad(adat)
+  Ciklus vége	
   Ciklus i=0 tól hossz(adatszerkezet)
   	ha (adatszerkezet[i]==keresett elem)
 		eredmenyek.hozzáad(adatszerkezet[i])
+  Ciklus vége		
   Ki: eredmenyek			
   Stop
   ```
@@ -608,6 +610,7 @@ Feladat:
  Ciklus i=0 tól hossz(adatszerkezet)
  	ha (adatszerkezet[i]==feltétel)
 		darabszám=darabszám+1
+Ciklus vége		
 Ki:darabszám
 Stop
  ```
@@ -617,6 +620,7 @@ Stop
  összeg=0
  Ciklus i=0 tól hossz(adatszerkezet)
  	összeg=összeg+adatszerkezet[i]
+ Ciklus vége	
  Ki összeg	
  Stop
  ```
@@ -628,6 +632,20 @@ Start
 Ciklus i=0 tól hossz(adatszerkezet)
 	ha(adatszerkezet[i]==feltétel)
 		összeg=összeg+adatszerkezet[i]
+Ciklus vége		
 Ki összeg		
+Stop
+```
+**Minimum meghatározása**
+
+```py
+Start
+Adatszerkezet feltöltése
+min=adatszerkezet[0]
+Ciklus i=0 tól hossz(adatszerkezet)
+ 	ha(adatszerkezet[i]<min
+		min=adatszerkezet[i]
+Ciklus vége
+Ki min
 Stop
 ```
