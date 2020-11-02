@@ -663,3 +663,16 @@ Ciklus vége
 Ki max
 Stop
 ```
+
+```py
+szamok=[10,67,6,5,1]
+
+for i in range(0,len(szamok)-1):
+  for j in range(i+1,len(szamok)):
+      if(szamok[i]>szamok[j]):
+        temp=szamok[i]
+        szamok[i]=szamok[j]
+        szamok[j]=temp
+
+print(szamok)        
+```
