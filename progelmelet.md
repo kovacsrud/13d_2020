@@ -707,4 +707,12 @@ print(osztas(20,5)
 
 ## Objektum-orientált programozás és szemlélet, osztályok
 
-Hagyományos programozás: A feladatok megoldása tevékenységekkel, elágazásokkal, ciklusokkal, valamint alprogramokkal.
+Hagyományos programozás: A feladatok megoldása tevékenységekkel, elágazásokkal, ciklusokkal, valamint alprogramokkal. 
+
+Szoftver krízis: a programok bonyolultsága átlépett egy határt, ezeket a feladatokat már nem lehetett a hagyományos programozás módszereivel hatékonyan megoldani, új szemléletre volt szükség.
+
+Objektum-orientált szemlélet: a programok egymással kapcsolatban lévő objektumokból (ablak, menü, eseményvezérlés stb). állnak. 
+
+Az OOP szemlélet alapja az osztály(class). Az osztály egy összetett struktúra, tartalmaz adatokat (adattag) és metódusokat (a metódus ugyanaz mint a függvény).
+Az osztály metódusai gyakorlatilag azokat a tevékenységeket jelentik, amit az osztály "meg tud csinálni".
+
