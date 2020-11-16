@@ -684,4 +684,17 @@ A lambda kifejezések segítségével egyszerű függvényeket gyorsabban lehet 
 def hozzaad(a):
 	return a+10	
 ```
+**Használata:**
+```py
+hozzaad(100)
+```
+**Ugyanez lambda kifejezéssel:**
 
+```py
+hozzaad=lambda a:a+10
+```
+**Használata:**
+
+```py
+hozzaad(10)
+```
