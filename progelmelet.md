@@ -714,5 +714,7 @@ Szoftver krízis: a programok bonyolultsága átlépett egy határt, ezeket a fe
 Objektum-orientált szemlélet: a programok egymással kapcsolatban lévő objektumokból (ablak, menü, eseményvezérlés stb). állnak. 
 
 Az OOP szemlélet alapja az osztály(class). Az osztály egy összetett struktúra, tartalmaz adatokat (adattag) és metódusokat (a metódus ugyanaz mint a függvény).
-Az osztály metódusai gyakorlatilag azokat a tevékenységeket jelentik, amit az osztály "meg tud csinálni".
+Az osztály metódusai gyakorlatilag azokat a tevékenységeket jelentik, amit az osztály "meg tud csinálni". Önálló egység, saját adatokkal és tevékenységekkel. 
+Az osztály adatainak és metódusainak láthatósága szabályozható. 
+
 
