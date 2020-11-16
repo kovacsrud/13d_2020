@@ -676,3 +676,12 @@ for i in range(0,len(szamok)-1):
 
 print(szamok)        
 ```
+## Lambda kifejezések
+
+A lambda kifejezések segítségével egyszerű függvényeket gyorsabban lehet létrehozni.
+
+```py
+def hozzaad(a):
+	return a+10	
+```
+
