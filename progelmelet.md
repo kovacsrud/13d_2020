@@ -704,3 +704,7 @@ hozzaad(10)
 osztas=lambda a,b:a/b
 print(osztas(20,5)
 ```
+
+## Objektum-orientált programozás és szemlélet, osztályok
+
+Hagyományos programozás: A feladatok megoldása tevékenységekkel, elágazásokkal, ciklusokkal, valamint alprogramokkal.
