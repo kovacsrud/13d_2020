@@ -717,4 +717,38 @@ Az OOP szemlélet alapja az osztály(class). Az osztály egy összetett struktú
 Az osztály metódusai gyakorlatilag azokat a tevékenységeket jelentik, amit az osztály "meg tud csinálni". Önálló egység, saját adatokkal és tevékenységekkel. 
 Az osztály adatainak és metódusainak láthatósága szabályozható. 
 
+### Példa osztály használatára
+
+Létrehozunk egy **Szemely** nevű osztályt. Az osztálynak vannak adattagjai (ezek gyakorlatilag változók) és lehetnek metódusai(azaz alprogramjai), de nem
+kötelező, hogy legyenek alprogramok kivéve az adattagok kezdeti beállításáért felelős konstruktor függvényt. A konstruktor az osztály példányosításakor automatikusan lefut. Python-ban az __init__ a konstruktor. A self az osztály azonosító paramétere, azonosítja az osztály alapján létrehozott példányt.
+A self után jönnek azok a paraméterek, amelyek használatával az adattagok beállíthatóak. Az adattagok előtt mindig szerepel a self azonosító.
+
+```py
+class Szemely:
+    def __init__(self,nev,szuletesiEv):
+        self.nev=nev
+        self.szuletesiEv=szuletesiEv
+```
+Az osztály alapján példányokat tudunk létrehozni a programban, ez a példányosítás művelete.
+```py
+szemely1=Szemely("Ubul",1998)
+szemely2=Szemely("Zénó",2001)
+```
+A szemely1 ill. a szemely2 a Szemely osztály **példányai**. A programban a példányokat tudjuk használni, a példányok egymástól függetlenek.
+
+Az osztály nem csak adatok tárolására jó, hanem alprogramokat is tartalmazhat, amelyeket végre tudunk hajtatni.
+Oldjuk meg, hogy az osztály kiírja a nev adattag értékét!
+```py
+class Szemely:
+    def __init__(self,nev,szuletesiEv):
+        self.nev=nev
+        self.szuletesiEv=szuletesiEv
+
+    def Bemutatkozas(self):
+        print("Jó napot "+self.nev+" vagyok.")
+```
+Az osztály alprogramját a következőképpen tudjuk végrehajtatni:
+```py
+szemely1.Bemutatkozas()
+```
 
