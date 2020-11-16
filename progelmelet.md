@@ -698,3 +698,9 @@ hozzaad=lambda a:a+10
 ```py
 hozzaad(10)
 ```
+**Több paraméter is használható egy lambda kifejezésben**
+
+```py
+osztas=lambda a,b:a/b
+print(osztas(20,5)
+```
