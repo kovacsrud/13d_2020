@@ -791,4 +791,6 @@ except Exception:
 if 'szam3'in globals():
     print(szam3)
 ```
-Az elágazás megnézi, hogy a szam3 változó szerepel-e a globals() névtérben. A globals() névtér tartalmazza a programban létrehozott összes globális változó nevét. A globális változó a program bármely részén elérhető. A locals() névtér a lokális változók neveit tartalmazza.
+Az elágazás megnézi, hogy a szam3 változó szerepel-e a globals() névtérben. A globals() névtér tartalmazza a programban létrehozott összes globális változó nevét. A globális változó a program bármely részén elérhető. A locals() névtér a lokális változók neveit tartalmazza. 
+
+Ha az except ágban az Exception-t használjuk, akkor az bármilyen keletkező kivételt el fog kapni.
