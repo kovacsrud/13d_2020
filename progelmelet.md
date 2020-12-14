@@ -860,3 +860,11 @@ def hatvanyok(szam,veg,kezd=0):
 
 hatvanyok(2,10)
 ```
+
+## Modulok használata információk a modulokról
+
+A Python program funkcionalitását ki lehet terjeszteni modulok alkalmazásával, illetve bizonyos funkciók használatához az adott modult importálni kell a programba. Ha mindig minden modul be lenne importálva, az nagyon lelassíthatná a program értelmezését, végrehajtását, ezért mindig csak azok a modulok kerülnek importálásra, amelynek funkcióira szükség van. Gyakran használtuk már pl. a random modult véletlen számok generálására.
+
+### Python Module Index
+
+A Python Module Index egy olyan abc sorrendbe rendezett, indexelt tartalom, ahol a python programban felhasználható modulok funkcióiról lehet információkat szerezni. Ezek a modulok az alap python moduljai, ha olyan modulokat használunk, melyek nem részei az alap pythonnak, pl.(NumPy) akkor arról a modulról a készítő ill. a modul webhelyén lehet információkat találni.
