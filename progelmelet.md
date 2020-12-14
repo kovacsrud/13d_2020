@@ -759,3 +759,19 @@ A kivételek kezelésére Pythonban a try..except  (más nyelvekben pl. try..cat
 A try blokkba kerülnek azok az utasítások, amelyek futása során kivétel jöhet létre. Amennyiben kivétel keletkezik valamelyik utasítás végrehajtásakor, akkor a soron következő utasítás a try blokkban már nem fog végrehajtódni, hanem a vezérlés átkerül az except blokkba. Az except blokkban lévő utasítások végrehajtásával lehet a felmerült problémát kezelni. Ez lehet egy hibaüzenet, ismételt adatbekérés stb. 
 
 A try..except blokkot kiegészíthetjük egy finally blokkal, de ez nem kötelező. A finally blokkba írt utasítások mindenféleképpen le fognak futni.
+
+Több except blokk is használható, amennyiben mi a különböző kivételekre eltérően akarunk reagálni. Pl. ValueError esetén a változó értéke nem megfelelő, pl. szám helyett szöveg, ezt érdemes egy pontos hibaüzenettel kezelni, nem pedig egy általános "Hiba" szöveggel. Túlbonyolítani sem érdemes, nem érdemes pl. 12 except blokkot készíteni, mert átláthatatlan lesz a kód.
+
+Egy másik tulajdonsága a try..except blokknak, a viszonylag lassú végrehajtása. Lehetséges, hogy cikluson belül használva a programunk futását lelassítja. 
+
+Példák:
+Olyan változó (a) kiíratásának a kísérlete, amely nem létezik:
+```py
+b=100
+
+try:
+    print(a)
+except NameError:
+    print("Ilyen változó nem létezik!")
+```
+Mivel kezeljük a keletkező kivételt, ezért a program futása nem fejeződik be, csak egy hibaüzenet jelenik meg.
