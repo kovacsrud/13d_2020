@@ -845,3 +845,18 @@ def csillagok(darab):
 csillagok(120)
 ```
 A bemenő érték a rajzolandó csillagok száma. Az elágazás megvizsgálja, hogy a darab változó értéke 0 e. Ha nem, akkor az else ág kerül végrehajtásra azaz kiírásra kerül egy \*, majd a függvény meghívja saját magát az addigi darab értékénél 1-el kisebb értékkel. Ez egészen addig megy, amíg a darab értéke el nem éri a 0-t.
+
+**Hatványozás rekurzióval**
+
+Ez a rekurzív függvény egy kapott szám hatványait állítja elő. A kezdőérték 0 (de lehetne más kezdőérték is!) a végértéket a szám mellett paraméterben adjuk át a függvénynek. A hatványozást a **math** modul **pow** függvényével végezzük.
+
+```py
+def hatvanyok(szam,veg,kezd=0):
+    if kezd>veg:
+        return 0
+    else:
+        print("szám:{} hatvány:{}={}".format(szam,kezd,pow(szam,kezd)))
+        hatvanyok(szam,veg,kezd+1)
+
+hatvanyok(2,10)
+```
