@@ -775,3 +775,19 @@ except NameError:
     print("Ilyen változó nem létezik!")
 ```
 Mivel kezeljük a keletkező kivételt, ezért a program futása nem fejeződik be, csak egy hibaüzenet jelenik meg.
+
+Két szám osztása. Osztás esetén könnyen előfordulhat nullával való osztás hiba, itt ezt a kivételt külön except ággal kezeljük, és egy másik except blokkal kapjuk el az esetleges további hibákat:
+```py
+szam1=35
+szam2=0
+
+try:
+    szam3=szam1/szam2
+except ZeroDivisionError:
+    print("0-val való osztás hiba!")
+except Exception:
+    print("Egyéb hiba")
+
+if 'szam3'in globals():
+    print(szam3)
+```
