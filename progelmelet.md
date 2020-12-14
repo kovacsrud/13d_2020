@@ -751,4 +751,11 @@ Az osztály alprogramját a következőképpen tudjuk végrehajtatni:
 ```py
 szemely1.Bemutatkozas()
 ```
+## Kivételek, kivételek kezelés
 
+A kivétel akkor jelentkezik, amikor valamilyen probléma lép fel a program futása során. A futtató környezet önmagában nem tudja ezeket a problémákat megoldani, ezért ha az adott kivételt nem kezelük, a program futása leáll, a program kilép. A potenciális kivételek kezelése a programozó feladata, ha a keletkező kivételeket megfelelően kezeli, hibák esetén sem lép ki majd a program.
+
+A kivételek kezelésére Pythonban a try..except  (más nyelvekben pl. try..catch) blokkban kerül sor.
+A try blokkba kerülnek azok az utasítások, amelyek futása során kivétel jöhet létre. Amennyiben kivétel keletkezik valamelyik utasítás végrehajtásakor, akkor a soron következő utasítás a try blokkban már nem fog végrehajtódni, hanem a vezérlés átkerül az except blokkba. Az except blokkban lévő utasítások végrehajtásával lehet a felmerült problémát kezelni. Ez lehet egy hibaüzenet, ismételt adatbekérés stb. 
+
+A try..except blokkot kiegészíthetjük egy finally blokkal, de ez nem kötelező. A finally blokkba írt utasítások mindenféleképpen le fognak futni.
