@@ -813,4 +813,21 @@ def sorozat(meddig):
 
 sorozat(20)
 ```
+Példa, előre számláló rekurzív függvény. Ebben az esetben két változóra is szükség van, az egyik tartalmazza az aktuális értéket, a másik a végértéket. Az aktuális érték kezdőértékét a függvény paraméterlistájában lehet megadni. Az alapértelmezett értéket használja a függvény, ha híváskor ennek a paraméternek nem adunk értéket, és az átadott értéket ha van ilyen érték:
 
+```py
+def sorozat(meddig,szamlalo=1):
+    if szamlalo>meddig:
+        print("Vége")
+        return 0
+    else:
+       print(szamlalo)
+       szamlalo+=1
+       sorozat(meddig,szamlalo)
+
+
+sorozat(20)
+
+sorozat(50,10)
+```
+Látszik, hogy az a függvény, amelynek paraméterlistájában alapértelmezett értékkel rendelkező változó van, az kétféleképpen is hívható.
