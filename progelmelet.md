@@ -831,3 +831,17 @@ sorozat(20)
 sorozat(50,10)
 ```
 Látszik, hogy az a függvény, amelynek paraméterlistájában alapértelmezett értékkel rendelkező változó van, az kétféleképpen is hívható.
+
+**Adott számú csillag kirajzolása rekurzióval (azaz saját magát hívó függvénnyel)**
+
+```py
+def csillagok(darab):
+    if darab==0:
+        return 0
+    else:
+        print("*",end="")
+        csillagok(darab-1)
+
+csillagok(120)
+```
+A bemenő érték a rajzolandó csillagok száma. Az elágazás megvizsgálja, hogy a darab változó értéke 0 e. Ha nem, akkor az else ág kerül végrehajtásra azaz kiírásra kerül egy \*, majd a függvény meghívja saját magát az addigi darab értékénél 1-el kisebb értékkel. Ez egészen addig megy, amíg a darab értéke el nem éri a 0-t.
