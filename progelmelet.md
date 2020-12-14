@@ -794,3 +794,23 @@ if 'szam3'in globals():
 Az elágazás megnézi, hogy a szam3 változó szerepel-e a globals() névtérben. A globals() névtér tartalmazza a programban létrehozott összes globális változó nevét. A globális változó a program bármely részén elérhető. A locals() névtér a lokális változók neveit tartalmazza. 
 
 Ha az except ágban az Exception-t használjuk, akkor az bármilyen keletkező kivételt el fog kapni.
+
+## Rekurzió, rekurzív függvények
+
+A rekurzív függvény saját magát hívja meg. A rekurzió nem mehet a végtelenségig, gondoskodni kell a függvényben arról, hogy adott számú lépés után a rekurzió befejeződjön.
+
+Példa, visszafelé számoló, önmagát hívó függvény:
+
+```py
+def sorozat(meddig):
+    if meddig==-20:
+        print("Vége")
+        return 0
+    else:
+       print(meddig)
+       sorozat(meddig-1)
+
+
+sorozat(20)
+```
+
