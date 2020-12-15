@@ -868,3 +868,18 @@ A Python program funkcionalitását ki lehet terjeszteni modulok alkalmazásáva
 ### Python Module Index
 
 A Python Module Index egy olyan abc sorrendbe rendezett, indexelt tartalom, ahol a python programban felhasználható modulok funkcióiról lehet információkat szerezni. Ezek a modulok az alap python moduljai, ha olyan modulokat használunk, melyek nem részei az alap pythonnak, pl.(NumPy) akkor arról a modulról a készítő ill. a modul webhelyén lehet információkat találni.
+
+### Az OS modul használata
+
+Ez a modul rengeteg olyan funkciót tartalmaz, amelyek segítségével az operációs rendszerrel kapcsolatos műveleteket (fájl -és mappakezelés, jogosultságok stb.) lehet elvégezni Python programmal. 
+
+Példa: Egy adott mappa és almappáinak bejárása, a mappa és fájlnevek kilistázása
+```py
+import os
+
+for root,dirs,files in os.walk("G:/tavtanitas"):
+    for dir in dirs:
+        print(dir)
+        for file in files:
+               print("    |__"+file)
+```
