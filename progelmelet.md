@@ -883,3 +883,14 @@ for root,dirs,files in os.walk("G:/tavtanitas"):
         for file in files:
                print("    |__"+file)
 ```
+Példa: csak adott kiterjesztésű fájlnév kiíratása:
+```py
+import os
+
+for root,dirs,files in os.walk("G:/tavtanitas"):
+    for dir in dirs:
+        print(dir)
+        for file in files:
+            if file.endswith(".txt") or file.endswith(".jpg"):
+                print("    |__"+file)
+```
